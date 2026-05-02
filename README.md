@@ -10,3 +10,5 @@ Fay-yaad Ahmed Parker: ST10434066, PROG7313 ICE04
 - Firebase Storage
 - RecyclerView
 
+# Disclaimer
+Firebase Storage was not implemented due to regional billing restrictions; therefore, image uploads are not supported in this version of the application.
